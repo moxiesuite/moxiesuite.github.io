@@ -148,7 +148,7 @@
 	          _react2.default.createElement(
 	            "p",
 	            null,
-	            "Truffle Suite's usage by developers over time, measured in GitHub stars."
+	            "Moxie Suite's usage by developers over time, measured in GitHub stars."
 	          ),
 	          _react2.default.createElement(
 	            "div",
