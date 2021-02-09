@@ -109,7 +109,7 @@
 	            _react2.default.createElement(
 	              "div",
 	              { className: "tile is-12" },
-	              _react2.default.createElement(_downloads2.default, { colorclassName: "is-truffle", packageName: "truffle", startDate: "2015-05-01" })
+	              _react2.default.createElement(_downloads2.default, { colorclassName: "is-moxie", packageName: "moxie", startDate: "2015-05-01" })
 	            )
 	          ),
 	          _react2.default.createElement(
@@ -156,7 +156,7 @@
 	            _react2.default.createElement(
 	              "div",
 	              { className: "tile is-12" },
-	              _react2.default.createElement(_stargazers2.default, { projects: ["trufflesuite/truffle", "trufflesuite/ganache", "trufflesuite/drizzle"] })
+	              _react2.default.createElement(_stargazers2.default, { projects: ["moxiesuite/moxie", "moxiesuite/ganache", "moxiesuite/drizzle"] })
 	            )
 	          )
 	        )
