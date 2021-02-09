@@ -96,12 +96,12 @@
 	          _react2.default.createElement(
 	            "p",
 	            { className: "mb-4" },
-	            "Over the lifetime of each product in the Truffle Suite, from inception to now."
+	            "Over the lifetime of each product in the Moxie Suite, from inception to now."
 	          ),
 	          _react2.default.createElement(
 	            "h3",
 	            null,
-	            "TRUFFLE"
+	            "MOXIE"
 	          ),
 	          _react2.default.createElement(
 	            "div",
